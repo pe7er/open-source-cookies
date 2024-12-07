@@ -9,7 +9,7 @@ Copyright (C) 2024 by Peter Martin. All Rights Reserved.
 - 250 grams of butter
 - 180 grams flour
 - 150 grams whole wheat flour
-- 2 teaspoons of baking powder
+- 1 teaspoon of baking powder
 - A pinch of salt
 
 ## Preparation
