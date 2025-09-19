@@ -5,7 +5,7 @@ under [open source](README.md#open-source-cookies) license GNU GPLv3.
 Copyright (C) 2024 - 2025 by Peter Martin. All Rights Reserved.
 
 ## Ingredients
-- 165 grams of sugar
+- 165 grams of fine sugar
 - 250 grams of vegan margarine
 - 180 grams flour
 - 150 grams whole wheat flour
