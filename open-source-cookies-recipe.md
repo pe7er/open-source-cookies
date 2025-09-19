@@ -2,10 +2,10 @@
 A simple open source cookie recipe to create crumbly shortbread cookies.
 This recipe has been [licensed](README.md#license-of-this-recipe) 
 under [open source](README.md#open-source-cookies) license GNU GPLv3.
-Copyright (C) 2024 by Peter Martin. All Rights Reserved.
+Copyright (C) 2024 - 2025 by Peter Martin. All Rights Reserved.
 
 ## Ingredients
-- 165 grams of white brown sugar
+- 165 grams of fine sugar
 - 250 grams of butter
 - 180 grams flour
 - 150 grams whole wheat flour
